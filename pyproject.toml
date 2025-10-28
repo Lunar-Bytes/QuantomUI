@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Quantom"
+version = "0.1.0"
+description = "A modern Python GUI library built on Tkinter"
+authors = [{ name="Lunar", email="joar@strombackfamily.com" }]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = []
