@@ -36,3 +36,7 @@ Thumbs.db
 
 # Test / temporary files
 *.log
+
+# Example files
+test_api.py
+test_window.py
